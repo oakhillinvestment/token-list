@@ -85390,8 +85390,6 @@
       "tags": [
         "stablecoin"
       ],
-   
-      },
       "extensions": {
         "coingeckoId": "usd-coin",
         "description": "The BiG Deal - is a decentralized blockchain-based platform that churns out amazing deals (BiG Deals) to its community members via auctioning and other engagement models. Each engagement has elements of luck, skill, gamification and is amazing fun.",
@@ -85403,7 +85401,7 @@
         "twitter": "https://twitter.com/thebigdeal_play",
         "website": "https://thebig.deals/"
       }
-    
+    },
     {
       "chainId": 101,
       "address": "4P8YW6HruTMRF9wm1xi6j2w6jyVwDfZd6oUMJTtxPpyU",
@@ -85414,7 +85412,11 @@
       "tags": [
         "social-token"
       ],
+      "extensions": {  
+        "website": "https://www.capitacrypto.com"
     }
+  }
+
       
   ],
   "version": {
